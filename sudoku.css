@@ -1,0 +1,39 @@
+/* to be de-commneted when needed
+
+.boardCell{
+    border-color: black;
+}
+
+.number{
+    width: 80px;
+    height: 100px;
+    font-size: larger;
+}
+
+.defaultNumber{
+    font-size: 30px;
+    text-align: center;
+}
+
+.errorFound{
+    color: red;
+}
+*/ 
+
+.number{
+    height: 80px;
+    width: 100px;
+    background-color: white;
+    border-radius: 15px;
+    border-style: none;
+    font-size: large;
+}
+
+.webpage{
+    background-color: black;
+    text-align: center;
+}
+
+.gridDiv{
+    text-align: center;
+}
