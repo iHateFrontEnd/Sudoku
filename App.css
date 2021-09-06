@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+body{
+  background-color: black;
+}
+
+.startup{
+  opacity: 0;
+}
+
+h1{
+  font-family: 'Bebas Neue', cursive;
+  font-size: 80px;
+  letter-spacing: 3px;
+}
+
+.createBoard{
+  height: 80px;
+  width: 300px;
+  font-family: 'Bebas Neue', cursive;
+  font-size: 30px;
+  background-color: white;
+  color: rgb(255, 72, 0);
+  border-radius: 12px;
+  border-style: none;
+}
+
+.startChallenge{
+  height: 80px;
+  width: 300px;
+  font-family: 'Bebas Neue', cursive;
+  font-size: 30px;
+  background-color: white;
+  color: rgb(255, 72, 0);
+  border-radius: 12px;
+  border-style: none;
+}
+
+.enterValues{
+  opacity: 0;
+}
+
+
+h2{
+  font-family: 'Bebas Neue', cursive;
+  font-size: 50px;
+  letter-spacing: 3px;
+}
+
+.enterColsRows{
+  height: 80px;
+  width: 400px;
+  font-family: 'Bebas Neue', cursive;
+  font-size: 30px;
+  background-color: white;
+  color: rgb(255, 72, 0);
+  border-radius: 12px;
+  text-align: center;
+  border-style: none;
+}
+
+table{
+  margin: 0 auto;
+}
+
+input{
+  height: 60px;
+  width: 100px;
+  font-family: 'Bebas Neue', cursive;
+  color: rgb(255, 72, 0);
+  text-align: center; 
+  font-size: 30px;
+  background-color: white;
+  border-radius: 12px;
+  border-style: none;
+}
+
